@@ -1,0 +1,43 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+}
+
+.name {
+    text-align: center;
+    color: white;
+    font-family: "Century Gothic";
+}
+
+hr {
+    height: 3px;
+    border: none;
+    background-color: grey;
+}
+
+a {
+    color: cyan;
+}
+
+.python-progress-bar {
+    width: 20%;
+    text-align: center;
+    background-color: grey;
+}
+
+.python-progress {
+    background-color: darkcyan;
+    width: 70%;
+}
+
+.golang-progress-bar {
+    width: 20%;
+    text-align: center;
+    background-color: grey;
+}
+
+.golang-progress {   
+    background-color: darkcyan;
+    width: 30%;
+}
